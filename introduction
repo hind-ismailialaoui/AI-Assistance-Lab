@@ -1,1 +1,19 @@
 Pouvoir parler avec l'IA et lui demander où se situent les objets dans le lab.
+
+Etape 1: Faire la BDD 
+
+Explications des Colonnes
+object_id : Un identifiant unique pour chaque objet.
+name : Le nom de l'objet.
+category : La catégorie de l'objet (par exemple, Material, VR, AR).
+description : Une description de l'objet.
+placement : L'emplacement de l'objet.
+associated_workstation : Le poste de travail associé à l'objet.
+action_id : Un identifiant unique pour chaque action.
+action_name : Le nom de l'action (par exemple, "Open Halocline", "Launch a Game").
+instructions : Les instructions générales pour effectuer l'action.
+device_specific_instructions : Les instructions spécifiques à un appareil pour effectuer l'action.
+
+Etape 2: Modèle de Recherche Sémantique 
+
+Etape 3: Créer l'assistant  
