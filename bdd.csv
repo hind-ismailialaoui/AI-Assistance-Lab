@@ -3,3 +3,4 @@ cable,Cable,Material,HDMI Cable,Closet VR-1,,,,,
 meta_quest_3,Meta Quest 3,VR,VR Headset,PC4,pc4,open_halocline,Open Halocline,"Step 1: Turn on the device. Step 2: Navigate to the app.","Step 1: Turn on the Meta Quest 3. Step 2: Navigate to the Halocline app. Step 3: Select 'Open'."
 hp_glasses,HP Glasses,AR,AR Glasses,PC1,pc1,open_halocline,Open Halocline,"Step 1: Turn on the device. Step 2: Use the voice command.","Step 1: Turn on the HP Glasses. Step 2: Use the voice command 'Open Halocline'."
 meta_quest_3,Meta Quest 3,VR,VR Headset,PC4,pc4,launch_game,Launch a Game,"Step 1: Turn on the device. Step 2: Select the game.","Step 1: Turn on the Meta Quest 3. Step 2: Select the game from the library. Step 3: Click 'Launch'."
+lol,lol,lol,Game,PC4,pc4,launch_game,Launch a Game,"Step 1: Turn on the device. Step 2: Select the game.","Step 1: Turn on the Meta Quest 3. Step 2: Select 'lol' from the library. Step 3: Click 'Launch'."
